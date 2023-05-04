@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
-<h3 align="center">Frontend developer passionate about technology.</h3>
+<h3 align="center" text-decoration='1px solid blue' >Frontend developer passionate about technology.</h3>
 
 - 🌱 I’m currently learning **NodeJs & GraphQL**
 
