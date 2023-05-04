@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='[https://media.tenor.com/DCW2DnjQpN8AAAAC/jack-stauber-talking.gif](https://media.tenor.com/sbe0q-jbRqgAAAAC/jack-stauber-inchman.gif)' width='200' />
+  <img src='https://media.tenor.com/sbe0q-jbRqgAAAAC/jack-stauber-inchman.gif' width='200' />
 </div>
 
 <h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
