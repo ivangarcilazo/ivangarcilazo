@@ -5,11 +5,11 @@
 <h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
 <h3 align="center" text-decoration='1px solid blue' >Frontend developer passionate about technology.</h3>
 
-- 🌱 I’m currently learning **NodeJs & GraphQL**
+- 🌱 I’m currently learning **GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React/NodeJs/NextJs**
 
 - 📫 How to reach me **ivangarcilazo.dv@gmail.com**
 
