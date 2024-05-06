@@ -5,11 +5,9 @@
 <h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
 <h3 align="center" text-decoration='1px solid blue' >Full stack developer developer passionate about technology.</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently growing with Eglobal One as a Full stack developer
 
 - 👨‍💻 All of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
-
-- 💬 Ask me about **React/NodeJs/NextJs**
 
 - 📫 How to reach me **ivangarcilazo.dv@gmail.com**
 
