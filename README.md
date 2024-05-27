@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently growing with Eglobal One as a Full stack developer
 
-- 👨‍💻 All of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
+- 👨‍💻 Part of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
 
 - 📫 How to reach me **ivangarcilazo.dv@gmail.com**
 
