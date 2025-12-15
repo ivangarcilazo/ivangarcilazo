@@ -1,11 +1,7 @@
-<div align="center">
-  <img src='https://media.tenor.com/sbe0q-jbRqgAAAAC/jack-stauber-inchman.gif' width='200' />
-</div>
-
 <h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
-<h3 align="center" text-decoration='1px solid blue' >Full stack developer developer passionate about technology.</h3>
+<h3 align="center" text-decoration='1px solid blue' >Developer passionate about technology.</h3>
 
-- 🌱 I’m currently growing with Eglobal One as a Full stack developer
+- 🌱 I’m currently growing with Eglobal One as a Software developer
 
 - 👨‍💻 Part of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
 
