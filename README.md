@@ -43,7 +43,3 @@
     </a>
 </p>
 
-
-<div align="center">
-  <img src='https://github-readme-streak-stats.herokuapp.com?user=ivangarcilazo&hide_border=true&mode=weekly&type=png)](https://git.io/streak-stats' />
-</div>
