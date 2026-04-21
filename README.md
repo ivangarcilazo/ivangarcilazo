@@ -13,7 +13,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" gap="10px" style="display:flex;flex-wrap:wrap;">
+<p align="center" gap="10px" display="flex" wrap="wrap">
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
     </a>
