@@ -1,45 +1,87 @@
-<h1 align="center">Hello 👋, I'm Ivan Garcilazo</h1>
-<h3 align="center" text-decoration='1px solid blue' >Developer passionate about technology.</h3>
+<div align="center">
 
-- 🌱 I’m currently growing with Eglobal One as a Software developer
+# Hi, I'm Ivan Garcilazo 👋
 
-- 👨‍💻 Part of my projects are available at [https://ivanngarcilazo.netlify.app](https://ivanngarcilazo.netlify.app)
+### Software Developer · Laravel & PHP Specialist · Entre Ríos, Argentina
 
-- 📫 How to reach me **ivangarcilazo.dv@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-garcilazo-7644a2199/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ivangarcilazo.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivangarcilazo.dv@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ivan-garcilazo-7644a2199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivan-garcilazo-7644a2199/" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center" gap="10px" display="flex" wrap="wrap">
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-</p>
+---
 
+## 🧑‍💻 About Me
+
+I'm a Software Developer with hands-on experience in **production systems**, specialized in **Laravel** and **PHP**. I've optimized web platforms achieving up to **70% improvement in load times** and delivered greater stability in critical environments.
+
+I apply clean code practices and scalable architecture to build maintainable solutions, collaborating actively with multidisciplinary teams across different time zones and cultures.
+
+- 🏢 Currently working at Eglobal.one — Santiago de Chile, Chile
+- ⚡ Achieved **70% load time reduction** through profiling and performance improvements
+- 🔒 Experienced in **security incident auditing & mitigation** on AWS/VPS environments
+- 🌍 Fluent in **Spanish** (native) and **English** (advanced)
+- 🌐 Portfolio: [ivangarcilazo.com](https://ivangarcilazo.com)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Magento](https://img.shields.io/badge/Magento_2-EE672F?style=for-the-badge&logo=magento&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Databases & Cache**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 💼
+
+- 🚀 Reduced page load times by **up to 70%** via performance profiling
+- 🔐 Audited and mitigated security incidents on **AWS VPS** environments
+- 🧩 Designed and built **REST APIs** for internal integrations, web scraping, and validations
+- 📦 Developed **custom Laravel packages** for scalable integrations
+- 🖥️ Configured and maintained **VPS environments** with PHP, MySQL and Nginx
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivangarcilazo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivangarcilazo&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building reliable, scalable systems — one commit at a time.*
+
+</div>
